@@ -1,0 +1,20 @@
+{
+	"name": "axia_africa_second-exam_express-js",
+	"version": "1.0.2",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon main.js"
+	},
+	"keywords": [],
+	"author": "Francis Olasupo",
+	"license": "ISC",
+	"description": "This is a backend express.js application to test my knowledge of the concepts and logics of express.js",
+	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"body-parser": "^1.20.2",
+		"express": "^4.19.2",
+		"jsonwebtoken": "^9.0.2",
+		"mongoose": "^8.6.0"
+	}
+}
